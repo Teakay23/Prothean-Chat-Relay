@@ -1,0 +1,13 @@
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.csprojAssemblyReference.cache
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.csproj.CoreCompileInputs.cache
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.AssemblyInfoInputs.cache
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.AssemblyInfo.cs
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\Prothean Chat Relay.deps.json
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\Prothean Chat Relay.runtimeconfig.json
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\Prothean Chat Relay.runtimeconfig.dev.json
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\Prothean Chat Relay.dll
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\Prothean Chat Relay.pdb
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.dll
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\obj\Debug\netcoreapp2.0\Prothean Chat Relay.pdb
+C:\Users\Umer.ahmed\Documents\Prothean Chat Relay\bin\Debug\netcoreapp2.0\app.db
